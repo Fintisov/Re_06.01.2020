@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fb302aaa-dc3b-4377-98ee-b50a528254b3" name="Default Changelist" comment="" />
+    <list default="true" id="fb302aaa-dc3b-4377-98ee-b50a528254b3" name="Default Changelist" comment="start_project">
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/MyriadPro-Bold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/MyriadPro-Bold.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/MyriadPro-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/MyriadPro-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/MyriadPro-Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Oswald-Light.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Oswald-Light.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Oswald-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Oswald-Light.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Oswald-Light.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Oswald-Regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Oswald-Regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Oswald-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Oswald-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Oswald-Regular.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/fonts.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +41,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../scss/sassc.exe" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="SvnConfiguration">
@@ -32,11 +56,58 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609862654815</updated>
-      <workItem from="1609862659947" duration="305000" />
+      <workItem from="1609862659947" duration="3741000" />
+      <workItem from="1609937869228" duration="13315000" />
     </task>
+    <task id="LOCAL-00001" summary="start_project">
+      <created>1609863064795</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609863064795</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="start_project" />
+    <option name="LAST_COMMIT_MESSAGE" value="start_project" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="69" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1609865089786">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="69" key="#com.intellij.ide.macro.MacrosDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1609865089786" />
+    <state x="352" y="142" key="EditFileWatcherDialog" timestamp="1609865134569">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="352" y="142" key="EditFileWatcherDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1609865134569" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1609865078457">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1609865078457" />
+    <state x="552" y="262" key="Github.ShareDialog" timestamp="1609862931780">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="552" y="262" key="Github.ShareDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1609862931780" />
+    <state x="498" y="69" key="Github.UntrackedFilesDialog" timestamp="1609862960574">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="498" y="69" key="Github.UntrackedFilesDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1609862960574" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1609865874757">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1609865874757" />
+    <state x="1705" y="162" key="run.anything.popup" timestamp="1609946080385">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="1705" y="162" key="run.anything.popup/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1609946080385" />
+    <state x="1712" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1609938421303">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="1712" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1609938421303" />
   </component>
 </project>
