@@ -12,7 +12,43 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-<!-------------navbar start------------->
+
+<!-------------Modal window------------->
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+     aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+
+            <div class="modal-body">
+                <ul class="list-unstyled d-flex">
+                    <li class="mr-4">
+                        <img src="images/прямогульник.png" alt="img">
+                    </li>
+
+                    <li>
+                        <p>Алекандр Воеводин</p>
+                        <p>Основатель международной сети кофее MY COFFEE,
+                            <br> вледелец тренинг-центра BARISTA PLUS, Харьков</p>
+                        <p>Тема: "Франчайзинг -
+                            <br>способ масштабирования бизнеса №1"
+                        </p>
+                    </li>
+                </ul>
+
+            </div>
+        </div>
+
+        <!--                <div class="modal-footer"></div>-->
+    </div>
+</div>
+<!-------------------------------------->
+
+<!-------------navbar------------->
 <nav class="navbar navbar-expand-lg navbar-light">
     <div class="container">
         <a class="navbar-brand mr-lg-5" href="#">
@@ -47,8 +83,8 @@
     </div>
 </nav>
 
-<!-------------banner-top------------->
-<section class="banner-top">
+<!-------------banner-group------------->
+<section class="banner-main">
     <video src="video/bg_mov.mov" autoplay muted></video>
     <div class="container content-box">
         <div class="row">
@@ -65,25 +101,149 @@
         </div>
 
         <div class="row">
-                <ul class="col-sm-5 list-unstyled d-flex justify-content-between">
-                    <li>
-                        <p>Организатор</p>
-                        <img src="images/partners1.png" alt="partners">
-                    </li>
-                    <li>
-                        <p>Креативный партер</p>
-                        <img src="images/partners2.png" alt="partners">
-                    </li>
-                    <li>
-                        <p>Генеральный партер</p>
-                        <img src="images/partners3.png" alt="partners">
-                    </li>
-                </ul>
-            </div>
+            <ul class="col-sm-5 list-unstyled d-flex justify-content-between">
+                <li>
+                    <p>Организатор</p>
+                    <img src="images/partners1.png" alt="partners">
+                </li>
+                <li>
+                    <p>Креативный партер</p>
+                    <img src="images/partners2.png" alt="partners">
+                </li>
+                <li>
+                    <p>Генеральный партер</p>
+                    <img src="images/partners3.png" alt="partners">
+                </li>
+            </ul>
+        </div>
     </div>
 </section>
 
+<section class="banner-advertising">
+    <div class="container">
+        <h3 class="mb-5">REMARKETING<br>
+            Autumn 2018<br>
+            XII международный<br>
+            рекламно-<br>
+            маркетинговый<br>
+            фестиваль</h3>
+        <ul class="list-unstyled">
+            <li><p>Невидимость – крутая суперспособность. Можно делать все, чего душа пожелает, и не бояться о
+                последствиях</p></li>
+            <li><p>
+                Но не тогда, когда ты – бутылка молока на полке. Никто не покупает невидимое молоко.<br>
+                - Где молоко?<br>
+                -Какое молоко?
+            </p></li>
+            <li><p>Сделай свой бренд видимым, приходи на XII Remarketing!</p></li>
+        </ul>
+        <h3 class="mb-sm-5">Тебе это нужно,<br>
+            если ты:</h3>
+        <ul class="list-unstyled list-banner">
+            <li><p>Маркетолог , но потребители не замечают твой продукт</p></li>
+            <li><p>PR-менеджер , но никто не видит твои пресс-релизы</p></li>
+            <li><p>Рекламист, но не можешь смотреть на эффективность </p></li>
+            <li><p>своих рекламных кампаний без слез</p></li>
+            <li><p>Бренд-менеджер, но твой бренд не различают с другими</p></li>
+            <li><p>Дизайнер, но результаты твоего труда незаметны</p></li>
+            <li><p>Web-специалист , но не можешь определить, что оптимизировать</p></li>
+            <li><p>Бизнесмен, но твой бизнес неприметен</p></li>
+            <li><p>SMM-специалист, но твои посты никто не просматривает</p></li>
+        </ul>
+    </div>
+</section>
 
+<!-------------People------------->
+<section class="people-group">
+
+    <div class="people-wrapper">
+        <div class="container">
+            <h3 class="text-uppercase">headliners:</h3>
+            <ul class="list-unstyled row d-flex flex-wrap">
+                <li class="col-6 col-md-4 col-lg-3" data-toggle="modal" data-target="#exampleModal">
+                    <img src="images/Гладкий.png" alt="people">
+                    <p>Юрий Гладкий</p>
+                </li>
+                <li class="col-6 col-md-4 col-lg-3" data-toggle="modal" data-target="#exampleModal">
+                    <img src="images/Шнайдер.png" alt="people">
+                    <p>Коста Шнайдер</p>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="people-wrapper">
+        <div class="container">
+            <h3 class="text-uppercase">Strategic Marketing:</h3>
+            <ul class="list-unstyled row d-flex">
+                <li class="col-6 col-md-4 col-lg-3" data-toggle="modal" data-target="#exampleModal">
+                    <img src="images/Киценко.png" alt="people">
+                    <p>Александр Киценко</p>
+                </li>
+                <li class="col-6 col-md-4 col-lg-3" data-toggle="modal" data-target="#exampleModal">
+                    <img src="images/Галика.png" alt="people">
+                    <p>Владимир Галика</p>
+                </li>
+                <li class="col-6 col-md-4 col-lg-3" data-toggle="modal" data-target="#exampleModal">
+                    <img src="images/Бортник.png" alt="people">
+                    <p>Вадим Бортник</p>
+                </li>
+            </ul>
+        </div>
+
+    </div>
+
+    <div class="people-wrapper">
+        <div class="container">
+            <h3 class="text-uppercase">Advertising, PR & Design:</h3>
+            <ul class="list-unstyled row d-flex">
+                <li class="col-6 col-md-4 col-lg-3" data-toggle="modal" data-target="#exampleModal">
+                    <img src="images/прямогульник.png" alt="people">
+                    <p>Виталий Пушкин</p>
+                </li>
+                <li class="col-6 col-md-4 col-lg-3" data-toggle="modal" data-target="#exampleModal">
+                    <img src="images/прямогульник.png" alt="people">
+                    <p>Макс Бурцев</p>
+                </li>
+                <li class="col-6 col-md-4 col-lg-3" data-toggle="modal" data-target="#exampleModal">
+                    <img src="images/прямогульник.png" alt="people">
+                    <p>Дмитрий Грицкий</p>
+                </li>
+                <li class="col-6 col-md-4 col-lg-3" data-toggle="modal" data-target="#exampleModal">
+                    <img src="images/прямогульник.png" alt="people">
+                    <p>Ростислав Касьяненко</p>
+                </li>
+            </ul>
+        </div>
+
+    </div>
+
+    <div class="people-wrapper">
+        <div class="container">
+            <h3 class="text-uppercase">digital:</h3>
+            <ul class="list-unstyled row d-flex">
+                <li class="col-6 col-md-4 col-lg-3" data-toggle="modal" data-target="#exampleModal">
+                    <img src="images/Байдаченко.png" alt="people">
+                    <p>Байдаченко</p>
+                </li>
+                <li class="col-6 col-md-4 col-lg-3" data-toggle="modal" data-target="#exampleModal">
+                    <img src="images/Бурач.png" alt="people">
+                    <p>Иван Бурач</p>
+                </li>
+                <li class="col-6 col-md-4 col-lg-3" data-toggle="modal" data-target="#exampleModal">
+                    <img src="images/Мокренко.png" alt="people">
+                    <p>Татьяна Мокренко</p>
+                </li>
+                <li class="col-6 col-md-4 col-lg-3" data-toggle="modal" data-target="#exampleModal">
+                    <img src="images/Шигаева.png" alt="people">
+                    <p>Даша Шигаева</p>
+                </li>
+            </ul>
+        </div>
+
+    </div>
+
+</section>
 
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
         integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
