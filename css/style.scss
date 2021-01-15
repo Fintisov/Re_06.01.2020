@@ -365,6 +365,13 @@ section.speakers {
       }
     }
 
+    h4 {
+      height: 50px;
+      overflow: hidden;
+      width: 75%;
+    }
+
+
     img {
       width: 110px;
       height: 110px;
@@ -475,4 +482,36 @@ section.contact {
       border-bottom: 1px solid;
     }
   }
+}
+
+section.partners {
+  padding-top: 100px;
+  margin-bottom: 70px;
+
+  .partners-wrap div {
+      margin-bottom: 30px;
+    }
+
+  img {
+    width: auto;
+    height: 35px;
+    margin-bottom: 10px;
+  }
+
+  p {
+    font-size: 14px;
+  }
+
+}
+
+footer {
+  background: #000;
+  padding-top: 75px;
+  padding-bottom: 65px;
+
+  p {
+    font-family: Oswald-Regular;
+    color: white;
+  }
+
 }
