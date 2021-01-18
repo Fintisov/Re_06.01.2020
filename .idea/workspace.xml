@@ -1,27 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb302aaa-dc3b-4377-98ee-b50a528254b3" name="Default Changelist" comment="start_project">
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/MyriadPro-Bold.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/MyriadPro-Bold.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/MyriadPro-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/MyriadPro-Bold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/MyriadPro-Bold.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Oswald-Light.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Oswald-Light.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Oswald-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Oswald-Light.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Oswald-Light.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Oswald-Regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Oswald-Regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Oswald-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Oswald-Regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Oswald-Regular.woff2" afterDir="false" />
+    <list default="true" id="fb302aaa-dc3b-4377-98ee-b50a528254b3" name="Default Changelist" comment="add new section:&#10;Partners&#10;footer">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fonts.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/fonts.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +43,13 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../scss/sassc.exe" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="    &lt;div class=&quot;speakers&quot;&gt;         &lt;div class=&quot;container&quot;&gt;             &lt;div class=&quot;speakers-title d-flex justify-content-end&quot;&gt;                 &lt;div class=&quot;w-25&quot;&gt;                     &lt;h4&gt;internet-&lt;br&gt;marketing&lt;/h4&gt;                     &lt;p&gt;модератор секции&lt;br&gt;                         &lt;span&gt;Кирил Чистяков&lt;/span&gt;                     &lt;/p&gt;                 &lt;/div&gt;                 &lt;div class=&quot;w-25&quot;&gt;                     &lt;h4&gt;internet-&lt;br&gt;marketing&lt;/h4&gt;                     &lt;p&gt;модератор секции&lt;br&gt;                         &lt;span&gt;Кирил Чистяков&lt;/span&gt;                     &lt;/p&gt;                 &lt;/div&gt;                 &lt;div class=&quot;w-25&quot;&gt;                     &lt;h4&gt;internet-&lt;br&gt;marketing&lt;/h4&gt;                     &lt;p&gt;модератор секции&lt;br&gt;                         &lt;span&gt;Кирил Чистяков&lt;/span&gt;                     &lt;/p&gt;                 &lt;/div&gt;             &lt;/div&gt;              &lt;div class=&quot;speaker-card d-flex&quot;&gt;                 &lt;div class=&quot;time w-25&quot;&gt;                     &lt;span&gt;14:45&lt;/span&gt;                 &lt;/div&gt;                 &lt;div class=&quot;w-25&quot;&gt;                     &lt;img class=&quot;mb-3&quot; src=&quot;images/прямогульник.png&quot; alt=&quot;photo&quot;&gt;                     &lt;h4&gt;Вадим Бортник&lt;/h4&gt;                     &lt;p&gt;Какойтокрутойчувак                         &lt;br&gt;Украина,Киев                         &lt;br&gt;Тема:«Замечательная»                     &lt;/p&gt;                 &lt;/div&gt;                 &lt;div class=&quot;w-25&quot;&gt;                     &lt;img class=&quot;mb-3&quot; src=&quot;images/прямогульник.png&quot; alt=&quot;photo&quot;&gt;                     &lt;h4&gt;Вадим Бортник&lt;/h4&gt;                     &lt;p&gt;Какойтокрутойчувак                         &lt;br&gt;Украина,Киев                         &lt;br&gt;Тема:«Замечательная»                     &lt;/p&gt;                 &lt;/div&gt;                 &lt;div class=&quot;w-25&quot;&gt;                     &lt;img class=&quot;mb-3&quot; src=&quot;images/прямогульник.png&quot; alt=&quot;photo&quot;&gt;                     &lt;h4&gt;Вадим Бортник&lt;/h4&gt;                     &lt;p&gt;Какойтокрутойчувак                         &lt;br&gt;Украина,Киев                         &lt;br&gt;Тема:«Замечательная»                     &lt;/p&gt;                 &lt;/div&gt;             &lt;/div&gt;             &lt;div class=&quot;speaker-card d-flex&quot;&gt;                 &lt;div class=&quot;time w-25&quot;&gt;                     &lt;span&gt;14:45&lt;/span&gt;                 &lt;/div&gt;                 &lt;div class=&quot;w-25&quot;&gt;                     &lt;img class=&quot;mb-3&quot; src=&quot;images/прямогульник.png&quot; alt=&quot;photo&quot;&gt;                     &lt;h4&gt;Вадим Бортник&lt;/h4&gt;                     &lt;p&gt;Какойтокрутойчувак                         &lt;br&gt;Украина,Киев                         &lt;br&gt;Тема:«Замечательная»                     &lt;/p&gt;                 &lt;/div&gt;                 &lt;div class=&quot;w-25&quot;&gt;                     &lt;img class=&quot;mb-3&quot; src=&quot;images/прямогульник.png&quot; alt=&quot;photo&quot;&gt;                     &lt;h4&gt;Вадим Бортник&lt;/h4&gt;                     &lt;p&gt;Какойтокрутойчувак                         &lt;br&gt;Украина,Киев                         &lt;br&gt;Тема:«Замечательная»                     &lt;/p&gt;                 &lt;/div&gt;                 &lt;div class=&quot;w-25&quot;&gt;                     &lt;img class=&quot;mb-3&quot; src=&quot;images/прямогульник.png&quot; alt=&quot;photo&quot;&gt;                     &lt;h4&gt;Вадим Бортник&lt;/h4&gt;                     &lt;p&gt;Какойтокрутойчувак                         &lt;br&gt;Украина,Киев                         &lt;br&gt;Тема:«Замечательная»                     &lt;/p&gt;                 &lt;/div&gt;             &lt;/div&gt;             &lt;div class=&quot;speaker-card d-flex&quot;&gt;                 &lt;div class=&quot;time w-25&quot;&gt;                     &lt;span&gt;14:45&lt;/span&gt;                 &lt;/div&gt;                 &lt;div class=&quot;w-25&quot;&gt;                     &lt;img class=&quot;mb-3&quot; src=&quot;images/прямогульник.png&quot; alt=&quot;photo&quot;&gt;                     &lt;h4&gt;Вадим Бортник&lt;/h4&gt;                     &lt;p&gt;Какойтокрутойчувак                         &lt;br&gt;Украина,Киев                         &lt;br&gt;Тема:«Замечательная»                     &lt;/p&gt;                 &lt;/div&gt;                 &lt;div class=&quot;w-25&quot;&gt;                     &lt;img class=&quot;mb-3&quot; src=&quot;images/прямогульник.png&quot; alt=&quot;photo&quot;&gt;                     &lt;h4&gt;Вадим Бортник&lt;/h4&gt;                     &lt;p&gt;Какойтокрутойчувак                         &lt;br&gt;Украина,Киев                         &lt;br&gt;Тема:«Замечательная»                     &lt;/p&gt;                 &lt;/div&gt;                 &lt;div class=&quot;w-25&quot;&gt;                     &lt;img class=&quot;mb-3&quot; src=&quot;images/прямогульник.png&quot; alt=&quot;photo&quot;&gt;                     &lt;h4&gt;Вадим Бортник&lt;/h4&gt;                     &lt;p&gt;Какойтокрутойчувак                         &lt;br&gt;Украина,Киев                         &lt;br&gt;Тема:«Замечательная»                     &lt;/p&gt;                 &lt;/div&gt;             &lt;/div&gt;             &lt;div class=&quot;speaker-card d-flex&quot;&gt;                 &lt;div class=&quot;time w-25&quot;&gt;                     &lt;span&gt;14:45&lt;/span&gt;                 &lt;/div&gt;                 &lt;div class=&quot;w-25&quot;&gt;                     &lt;img class=&quot;mb-3&quot; src=&quot;images/прямогульник.png&quot; alt=&quot;photo&quot;&gt;                     &lt;h4&gt;Вадим Бортник&lt;/h4&gt;                     &lt;p&gt;Какойтокрутойчувак                         &lt;br&gt;Украина,Киев                         &lt;br&gt;Тема:«Замечательная»                     &lt;/p&gt;                 &lt;/div&gt;                 &lt;div class=&quot;w-25&quot;&gt;                     &lt;img class=&quot;mb-3&quot; src=&quot;images/прямогульник.png&quot; alt=&quot;photo&quot;&gt;                     &lt;h4&gt;Вадим Бортник&lt;/h4&gt;                     &lt;p&gt;Какойтокрутойчувак                         &lt;br&gt;Украина,Киев                         &lt;br&gt;Тема:«Замечательная»                     &lt;/p&gt;                 &lt;/div&gt;                 &lt;div class=&quot;w-25&quot;&gt;                     &lt;img class=&quot;mb-3&quot; src=&quot;images/прямогульник.png&quot; alt=&quot;photo&quot;&gt;                     &lt;h4&gt;Вадим Бортник&lt;/h4&gt;                     &lt;p&gt;Какойтокрутойчувак                         &lt;br&gt;Украина,Киев                         &lt;br&gt;Тема:«Замечательная»                     &lt;/p&gt;                 &lt;/div&gt;             &lt;/div&gt;             &lt;div class=&quot;speaker-card d-flex&quot;&gt;                 &lt;div class=&quot;time w-25&quot;&gt;                     &lt;span&gt;14:45&lt;/span&gt;                 &lt;/div&gt;                 &lt;div class=&quot;w-25&quot;&gt;                     &lt;img class=&quot;mb-3&quot; src=&quot;images/прямогульник.png&quot; alt=&quot;photo&quot;&gt;                     &lt;h4&gt;Вадим Бортник&lt;/h4&gt;                     &lt;p&gt;Какойтокрутойчувак                         &lt;br&gt;Украина,Киев                         &lt;br&gt;Тема:«Замечательная»                     &lt;/p&gt;                 &lt;/div&gt;                 &lt;div class=&quot;w-25&quot;&gt;                     &lt;img class=&quot;mb-3&quot; src=&quot;images/прямогульник.png&quot; alt=&quot;photo&quot;&gt;                     &lt;h4&gt;Вадим Бортник&lt;/h4&gt;                     &lt;p&gt;Какойтокрутойчувак                         &lt;br&gt;Украина,Киев                         &lt;br&gt;Тема:«Замечательная»                     &lt;/p&gt;                 &lt;/div&gt;                 &lt;div class=&quot;w-25&quot;&gt;                     &lt;img class=&quot;mb-3&quot; src=&quot;images/прямогульник.png&quot; alt=&quot;photo&quot;&gt;                     &lt;h4&gt;Вадим Бортник&lt;/h4&gt;                     &lt;p&gt;Какойтокрутойчувак                         &lt;br&gt;Украина,Киев                         &lt;br&gt;Тема:«Замечательная»                     &lt;/p&gt;                 &lt;/div&gt;             &lt;/div&gt;          &lt;/div&gt;     &lt;/div&gt; " />
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -57,7 +62,13 @@
       <option name="presentableId" value="Default" />
       <updated>1609862654815</updated>
       <workItem from="1609862659947" duration="3741000" />
-      <workItem from="1609937869228" duration="13315000" />
+      <workItem from="1609937869228" duration="16016000" />
+      <workItem from="1610024911599" duration="3135000" />
+      <workItem from="1610041078953" duration="4000" />
+      <workItem from="1610366552742" duration="17334000" />
+      <workItem from="1610444952923" duration="3279000" />
+      <workItem from="1610449467944" duration="61559000" />
+      <workItem from="1610708978579" duration="12868000" />
     </task>
     <task id="LOCAL-00001" summary="start_project">
       <created>1609863064795</created>
@@ -66,15 +77,67 @@
       <option name="project" value="LOCAL" />
       <updated>1609863064795</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add new section nav">
+      <created>1609951374551</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1609951374551</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add new section banner-top">
+      <created>1610384554736</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1610384554737</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add new section:&#10;banner-advertising&#10;people-group&#10;Modal window">
+      <created>1610471739852</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1610471739852</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add new section:&#10;program-group&#10;speakers&#10;Prise&#10;Register&#10;Contact info">
+      <created>1610640390269</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1610640390269</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add new section:&#10;Partners&#10;footer">
+      <created>1610725414433</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1610725414433</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start_project" />
-    <option name="LAST_COMMIT_MESSAGE" value="start_project" />
+    <MESSAGE value="add new section nav" />
+    <MESSAGE value="add new section banner-top" />
+    <MESSAGE value="add new section:&#10;banner-advertising&#10;people-group&#10;Modal window" />
+    <MESSAGE value="add new section:&#10;program-group&#10;speakers&#10;Prise&#10;Register&#10;Contact info" />
+    <MESSAGE value="add new section:&#10;Partners&#10;footer" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new section:&#10;Partners&#10;footer" />
   </component>
   <component name="WindowStateProjectService">
     <state x="463" y="69" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1609865089786">
@@ -97,17 +160,24 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="498" y="69" key="Github.UntrackedFilesDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1609862960574" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1609865874757">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1610725430711">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1609865874757" />
-    <state x="1705" y="162" key="run.anything.popup" timestamp="1609946080385">
-      <screen x="1366" y="0" width="1366" height="728" />
+    <state x="1641" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1610384559854" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1610725430711" />
+    <state x="1656" y="115" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1610640395468" />
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup" timestamp="1610721620954">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="1705" y="162" key="run.anything.popup/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1609946080385" />
-    <state x="1712" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1609938421303">
-      <screen x="1366" y="0" width="1366" height="728" />
+    <state x="1705" y="162" key="run.anything.popup/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1610376918101" />
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1610721620954" />
+    <state x="1723" y="191" key="run.anything.popup/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1610638395292" />
+    <state x="346" y="49" width="673" height="679" key="search.everywhere.popup" timestamp="1610554272996">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="1712" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1609938421303" />
+    <state x="346" y="49" width="673" height="679" key="search.everywhere.popup/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1610554272996" />
+    <state x="1731" y="58" width="709" height="801" key="search.everywhere.popup/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1610536090964" />
   </component>
 </project>
